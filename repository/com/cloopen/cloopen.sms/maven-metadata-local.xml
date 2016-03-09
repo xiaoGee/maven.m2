@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.cloopen</groupId>
+  <artifactId>cloopen.sms</artifactId>
+  <versioning>
+    <release>2.6.3.RELEASE</release>
+    <versions>
+      <version>2.6.3.RELEASE</version>
+    </versions>
+    <lastUpdated>20160309045316</lastUpdated>
+  </versioning>
+</metadata>
